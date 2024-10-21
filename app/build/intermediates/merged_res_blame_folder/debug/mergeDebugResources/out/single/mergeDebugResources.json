@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.memoryexe.app-main-45:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/layout_search_item.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/layout/search_item.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.memoryexe.app-main-45:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/drawable_ic_menu.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/drawable/ic_menu.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/layout_activity_home.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/xml_backup_rules.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/layout_dialog_board_size.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/layout/dialog_board_size.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.memoryexe.app-main-45:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/layout_card_image.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/layout/card_image.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.memoryexe.app-main-45:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/drawable_card.png.flat",
+        "source": "com.example.memoryexe.app-main-45:/drawable/card.png"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/drawable_ic_school.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/drawable/ic_school.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.memoryexe.app-main-45:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.memoryexe.app-main-45:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/layout_activity_profile.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/drawable_ic_work.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/drawable/ic_work.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/drawable_ic_image.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/drawable/ic_image.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/drawable_ic_lighting.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/drawable/ic_lighting.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/drawable_ic_gift.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/drawable/ic_gift.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/drawable_ic_face.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/drawable/ic_face.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/layout_activity_sign_up.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/drawable_ic_star.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/drawable/ic_star.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/drawable_ic_person.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/layout_activity_sign_in.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/drawable_ic_send.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/drawable/ic_send.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/drawable_ic_heart.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/drawable/ic_heart.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/layout_activity_search.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/layout/activity_search.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.memoryexe.app-main-45:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/drawable_ic_refresh.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/drawable/ic_refresh.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/layout_activity_create.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/layout/activity_create.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/drawable_ic_flower.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/drawable/ic_flower.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/layout_activity_splash_screen.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/drawable_ic_home.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.memoryexe.app-main-45:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/layout_activity_main.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/drawable_butterfly.jpg.flat",
+        "source": "com.example.memoryexe.app-main-45:/drawable/butterfly.jpg"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/layout_memory_card.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/layout/memory_card.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/drawable_blue_img.jpg.flat",
+        "source": "com.example.memoryexe.app-main-45:/drawable/blue_img.jpg"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.memoryexe.app-main-45:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.memoryexe.app-main-45:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/drawable_ic_moon.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/drawable/ic_moon.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/layout_dialog_download_board.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/layout/dialog_download_board.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/drawable_ic_search.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/layout_home_scrn_item.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/layout/home_scrn_item.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/drawable_ic_plane.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/drawable/ic_plane.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/menu_menu_main.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/drawable_cstm_img_bg.jpeg.flat",
+        "source": "com.example.memoryexe.app-main-45:/drawable/cstm_img_bg.jpeg"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/drawable_ic_search_new.xml.flat",
+        "source": "com.example.memoryexe.app-main-45:/drawable/ic_search_new.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-debug-43:/drawable_memory_exe_logo.png.flat",
+        "source": "com.example.memoryexe.app-main-45:/drawable/memory_exe_logo.png"
+    }
+]

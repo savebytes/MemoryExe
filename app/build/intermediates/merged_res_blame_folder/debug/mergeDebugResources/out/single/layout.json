@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "com.example.memoryexe.app-mergeDebugResources-42:/layout/dialog_board_size.xml",
+        "source": "com.example.memoryexe.app-main-45:/layout/dialog_board_size.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-mergeDebugResources-42:/layout/card_image.xml",
+        "source": "com.example.memoryexe.app-main-45:/layout/card_image.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-mergeDebugResources-42:/layout/activity_home.xml",
+        "source": "com.example.memoryexe.app-main-45:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-mergeDebugResources-42:/layout/activity_search.xml",
+        "source": "com.example.memoryexe.app-main-45:/layout/activity_search.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-mergeDebugResources-42:/layout/dialog_download_board.xml",
+        "source": "com.example.memoryexe.app-main-45:/layout/dialog_download_board.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-mergeDebugResources-42:/layout/activity_create.xml",
+        "source": "com.example.memoryexe.app-main-45:/layout/activity_create.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-mergeDebugResources-42:/layout/memory_card.xml",
+        "source": "com.example.memoryexe.app-main-45:/layout/memory_card.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-mergeDebugResources-42:/layout/activity_splash_screen.xml",
+        "source": "com.example.memoryexe.app-main-45:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-mergeDebugResources-42:/layout/activity_sign_in.xml",
+        "source": "com.example.memoryexe.app-main-45:/layout/activity_sign_in.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-mergeDebugResources-42:/layout/search_item.xml",
+        "source": "com.example.memoryexe.app-main-45:/layout/search_item.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-mergeDebugResources-42:/layout/activity_main.xml",
+        "source": "com.example.memoryexe.app-main-45:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-mergeDebugResources-42:/layout/activity_profile.xml",
+        "source": "com.example.memoryexe.app-main-45:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-mergeDebugResources-42:/layout/activity_sign_up.xml",
+        "source": "com.example.memoryexe.app-main-45:/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "com.example.memoryexe.app-mergeDebugResources-42:/layout/home_scrn_item.xml",
+        "source": "com.example.memoryexe.app-main-45:/layout/home_scrn_item.xml"
+    }
+]

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Bg_color">#B3DEC1</color>
+    <color name="black">#FF000000</color>
+    <color name="color_gray">#E0E0E0</color>
+    <color name="color_progress_full">#35BA01</color>
+    <color name="color_progress_none">#DC1E0B</color>
+    <color name="dark_purple">#32213A</color>
+    <color name="log_accent">#29335C</color>
+    <color name="payne_gray">#66717E</color>
+    <color name="pearl">#D4D6B9</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="sage">#D1CAA1</color>
+    <color name="space_cadet">#383B53</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="already_registered_log_in_here">Already Registered? Log in here.</string>
+    <string name="app_name">Memory Ex</string>
+    <string name="default_web_client_id" translatable="false">739937826609-87r3q5f9mjjkrq41ja05re25lrmhup3f.apps.googleusercontent.com</string>
+    <string name="email">Email</string>
+    <string name="game_name_e_g_star_wars">Game name(e.g. star_wars)</string>
+    <string name="gcm_defaultSenderId" translatable="false">739937826609</string>
+    <string name="google_api_key" translatable="false">AIzaSyD-wbkC2Q1chYsRb-0MvXsikH_ygTB8m4M</string>
+    <string name="google_app_id" translatable="false">1:739937826609:android:a0f3bb793599ffcf7f2210</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD-wbkC2Q1chYsRb-0MvXsikH_ygTB8m4M</string>
+    <string name="google_storage_bucket" translatable="false">my-memory-game-7ad8b.appspot.com</string>
+    <string name="login">Login</string>
+    <string name="moves_0">Moves: 0</string>
+    <string name="pairs_0_4">Pairs: 0 /4</string>
+    <string name="password">Password</string>
+    <string name="project_id" translatable="false">my-memory-game-7ad8b</string>
+    <string name="register">Register</string>
+    <string name="search_games">Search games...</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="todo">TODO</string>
+    <string name="type_your_email">Type your Email</string>
+    <string name="type_your_name">Type your name</string>
+    <string name="type_your_password">Type Your Password</string>
+    <style name="Base.Theme.MemoryExe" parent="Theme.Material3.DayNight.NoActionBar">
+
+    </style>
+    <style name="Theme.MemoryExe" parent="Base.Theme.MemoryExe"/>
+</resources>
