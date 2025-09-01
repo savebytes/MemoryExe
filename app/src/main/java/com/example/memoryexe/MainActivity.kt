@@ -66,7 +66,7 @@ class MainActivity : AppCompatActivity() {
         tvNumMoves = findViewById(R.id.tvNumMoves)
         tvNumPairs = findViewById(R.id.tvNumPairs)
 
-        remoteConfig.setDefaultsAsync(mapOf("about_link" to "https://www.linkedin.com/in/ankit-singh-72b744225/", "scaled_height" to 250L, "compress_quality" to 60L))
+        remoteConfig.setDefaultsAsync(mapOf("about_link" to "", "scaled_height" to 250L, "compress_quality" to 60L))
         remoteConfig.fetchAndActivate()
             .addOnCompleteListener(this) { task ->
                 if (task.isSuccessful) {
